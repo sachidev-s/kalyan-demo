@@ -1,6 +1,9 @@
 .container {
   padding: 0 2rem;
 }
+.w-full {
+  width: 200%;
+}
 
 .main {
   min-height: 100vh;

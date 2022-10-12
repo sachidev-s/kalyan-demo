@@ -1,0 +1,1 @@
+export type AllHTMLElements = HTMLAnchorElement & HTMLDivElement & HTMLFormElement
